@@ -1,0 +1,1 @@
+cmd_sound/core/seq/snd-seq-midi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o sound/core/seq/snd-seq-midi.ko sound/core/seq/snd-seq-midi.o sound/core/seq/snd-seq-midi.mod.o

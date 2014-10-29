@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/cytherm.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/misc/cytherm.ko drivers/usb/misc/cytherm.o drivers/usb/misc/cytherm.mod.o

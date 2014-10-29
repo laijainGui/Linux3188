@@ -1,0 +1,1 @@
+cmd_drivers/usb/mon/usbmon.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/mon/usbmon.ko drivers/usb/mon/usbmon.o drivers/usb/mon/usbmon.mod.o

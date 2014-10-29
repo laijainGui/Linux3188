@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libertas/usb8xxx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/libertas/usb8xxx.ko drivers/net/wireless/libertas/usb8xxx.o drivers/net/wireless/libertas/usb8xxx.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/bcm203x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/bluetooth/bcm203x.ko drivers/bluetooth/bcm203x.o drivers/bluetooth/bcm203x.mod.o

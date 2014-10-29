@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/iwmc3200wifi/iwmc3200wifi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/iwmc3200wifi/iwmc3200wifi.ko drivers/net/wireless/iwmc3200wifi/iwmc3200wifi.o drivers/net/wireless/iwmc3200wifi/iwmc3200wifi.mod.o

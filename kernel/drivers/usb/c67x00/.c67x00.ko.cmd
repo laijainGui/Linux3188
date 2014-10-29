@@ -1,0 +1,1 @@
+cmd_drivers/usb/c67x00/c67x00.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/c67x00/c67x00.ko drivers/usb/c67x00/c67x00.o drivers/usb/c67x00/c67x00.mod.o

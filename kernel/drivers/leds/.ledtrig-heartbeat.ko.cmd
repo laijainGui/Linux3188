@@ -1,0 +1,1 @@
+cmd_drivers/leds/ledtrig-heartbeat.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/leds/ledtrig-heartbeat.ko drivers/leds/ledtrig-heartbeat.o drivers/leds/ledtrig-heartbeat.mod.o

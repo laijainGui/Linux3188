@@ -1,0 +1,1 @@
+cmd_drivers/leds/ledtrig-sleep.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/leds/ledtrig-sleep.ko drivers/leds/ledtrig-sleep.o drivers/leds/ledtrig-sleep.mod.o

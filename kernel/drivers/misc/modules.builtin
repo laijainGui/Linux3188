@@ -1,0 +1,2 @@
+kernel/drivers/misc/tcc_bt_dev.ko
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko

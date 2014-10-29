@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/smsc95xx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/usb/smsc95xx.ko drivers/net/usb/smsc95xx.o drivers/net/usb/smsc95xx.mod.o

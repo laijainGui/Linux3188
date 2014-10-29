@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/b43/b43.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/b43/b43.ko drivers/net/wireless/b43/b43.o drivers/net/wireless/b43/b43.mod.o

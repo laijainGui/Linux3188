@@ -1,0 +1,1 @@
+cmd_drivers/media/video/wm8775.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/media/video/wm8775.ko drivers/media/video/wm8775.o drivers/media/video/wm8775.mod.o

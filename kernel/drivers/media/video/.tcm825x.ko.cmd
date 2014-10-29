@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tcm825x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/media/video/tcm825x.ko drivers/media/video/tcm825x.o drivers/media/video/tcm825x.mod.o

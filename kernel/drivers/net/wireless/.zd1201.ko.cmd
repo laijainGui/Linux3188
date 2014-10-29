@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/zd1201.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/zd1201.ko drivers/net/wireless/zd1201.o drivers/net/wireless/zd1201.mod.o

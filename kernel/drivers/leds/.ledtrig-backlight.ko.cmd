@@ -1,0 +1,1 @@
+cmd_drivers/leds/ledtrig-backlight.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/leds/ledtrig-backlight.ko drivers/leds/ledtrig-backlight.o drivers/leds/ledtrig-backlight.mod.o

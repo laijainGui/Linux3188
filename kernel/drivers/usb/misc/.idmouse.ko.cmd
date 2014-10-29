@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/idmouse.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/misc/idmouse.ko drivers/usb/misc/idmouse.o drivers/usb/misc/idmouse.mod.o

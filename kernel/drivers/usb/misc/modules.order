@@ -1,0 +1,9 @@
+kernel/drivers/usb/misc/adutux.ko
+kernel/drivers/usb/misc/cypress_cy7c63.ko
+kernel/drivers/usb/misc/cytherm.ko
+kernel/drivers/usb/misc/emi26.ko
+kernel/drivers/usb/misc/emi62.ko
+kernel/drivers/usb/misc/idmouse.ko
+kernel/drivers/usb/misc/usblcd.ko
+kernel/drivers/usb/misc/ldusb.ko
+kernel/drivers/usb/misc/usbled.ko

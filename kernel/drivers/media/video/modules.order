@@ -1,0 +1,13 @@
+kernel/drivers/media/video/saa7115.ko
+kernel/drivers/media/video/msp3400.ko
+kernel/drivers/media/video/cs53l32a.ko
+kernel/drivers/media/video/wm8775.ko
+kernel/drivers/media/video/cx25840/cx25840.ko
+kernel/drivers/media/video/ov7670.ko
+kernel/drivers/media/video/tcm825x.ko
+kernel/drivers/media/video/mt9v011.ko
+kernel/drivers/media/video/gc2035.ko
+kernel/drivers/media/video/cx2341x.ko
+kernel/drivers/media/video/gspca/gspca_main.ko
+kernel/drivers/media/video/uvc/uvcvideo.ko
+kernel/drivers/media/video/ir-kbd-i2c.ko

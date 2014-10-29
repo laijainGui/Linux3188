@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/ti_usb_3410_5052.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/serial/ti_usb_3410_5052.ko drivers/usb/serial/ti_usb_3410_5052.o drivers/usb/serial/ti_usb_3410_5052.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/video/cx25840/cx25840.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/media/video/cx25840/cx25840.ko drivers/media/video/cx25840/cx25840.o drivers/media/video/cx25840/cx25840.mod.o

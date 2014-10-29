@@ -1,0 +1,1 @@
+cmd_drivers/staging/rk29/ipp/rk29-ipp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/staging/rk29/ipp/rk29-ipp.ko drivers/staging/rk29/ipp/rk29-ipp.o drivers/staging/rk29/ipp/rk29-ipp.mod.o

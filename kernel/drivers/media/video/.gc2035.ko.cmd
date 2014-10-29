@@ -1,0 +1,1 @@
+cmd_drivers/media/video/gc2035.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/media/video/gc2035.ko drivers/media/video/gc2035.o drivers/media/video/gc2035.mod.o

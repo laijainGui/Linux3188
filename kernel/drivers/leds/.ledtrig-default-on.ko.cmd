@@ -1,0 +1,1 @@
+cmd_drivers/leds/ledtrig-default-on.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/leds/ledtrig-default-on.ko drivers/leds/ledtrig-default-on.o drivers/leds/ledtrig-default-on.mod.o

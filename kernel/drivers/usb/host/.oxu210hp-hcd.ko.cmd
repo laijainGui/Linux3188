@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/oxu210hp-hcd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/host/oxu210hp-hcd.ko drivers/usb/host/oxu210hp-hcd.o drivers/usb/host/oxu210hp-hcd.mod.o

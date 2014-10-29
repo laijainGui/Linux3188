@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/wl12xx/wl12xx_sdio_test.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/wl12xx/wl12xx_sdio_test.ko drivers/net/wireless/wl12xx/wl12xx_sdio_test.o drivers/net/wireless/wl12xx/wl12xx_sdio_test.mod.o

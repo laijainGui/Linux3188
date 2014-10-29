@@ -1,0 +1,6 @@
+kernel/net/8021q/8021q.ko
+kernel/net/wireless/lib80211_crypt_wep.ko
+kernel/net/wireless/lib80211_crypt_ccmp.ko
+kernel/net/wireless/lib80211_crypt_tkip.ko
+kernel/net/sunrpc/sunrpc.ko
+kernel/net/sunrpc/auth_gss/auth_rpcgss.ko

@@ -1,0 +1,2 @@
+drivers/net/wireless/iwmc3200wifi/iwmc3200wifi.ko
+drivers/net/wireless/iwmc3200wifi/main.o drivers/net/wireless/iwmc3200wifi/netdev.o drivers/net/wireless/iwmc3200wifi/rx.o drivers/net/wireless/iwmc3200wifi/tx.o drivers/net/wireless/iwmc3200wifi/sdio.o drivers/net/wireless/iwmc3200wifi/hal.o drivers/net/wireless/iwmc3200wifi/fw.o drivers/net/wireless/iwmc3200wifi/commands.o drivers/net/wireless/iwmc3200wifi/cfg80211.o drivers/net/wireless/iwmc3200wifi/eeprom.o

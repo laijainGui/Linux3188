@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/funsoft.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/serial/funsoft.ko drivers/usb/serial/funsoft.o drivers/usb/serial/funsoft.mod.o

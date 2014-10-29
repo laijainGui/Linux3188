@@ -1,0 +1,3 @@
+kernel/lib/crc-t10dif.ko
+kernel/lib/crc-itu-t.ko
+kernel/lib/crc7.ko

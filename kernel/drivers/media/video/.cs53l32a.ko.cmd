@@ -1,0 +1,1 @@
+cmd_drivers/media/video/cs53l32a.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/media/video/cs53l32a.ko drivers/media/video/cs53l32a.o drivers/media/video/cs53l32a.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/siemens_mpi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/usb/serial/siemens_mpi.ko drivers/usb/serial/siemens_mpi.o drivers/usb/serial/siemens_mpi.mod.o

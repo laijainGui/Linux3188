@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl818x/rtl8187/rtl8187.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/srathore/Desktop/mk902/Linux3188/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtl818x/rtl8187/rtl8187.ko drivers/net/wireless/rtl818x/rtl8187/rtl8187.o drivers/net/wireless/rtl818x/rtl8187/rtl8187.mod.o
